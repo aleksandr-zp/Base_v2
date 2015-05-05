@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Elements>
+        <WebElement name="tabActive">
+                <!--<xpath>xpathlocator</xpath>-->
+				<css>cssselector</css>
+				<id>idselector</id>
+				<name>nameSelector</name>
+				<tag>tagNameSelector</tag>
+				<linkText>linkTextLocator</linkText>
+				<partialLinkText>partialLinkTextSelector</partialLinkText>
+        </WebElement>
+		
+		<WebElement name="tab2">
+                <xpath>xpathlocator</xpath>
+				<css>cssselector</css>
+				<id>idselector</id>
+				<name>nameSelector</name>
+				<tag>tagNameSelector</tag>
+				<linkText>linkTextLocator</linkText>
+				<partialLinkText>partialLinkTextSelector</partialLinkText>
+        </WebElement>
+
+</Elements>

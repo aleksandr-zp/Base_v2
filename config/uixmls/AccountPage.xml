@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Elements>
+
+
+    <!--Logout button-->
+    <WebElement name="loginFormButton">
+        <xpath>//a[@class='link-login']</xpath>
+    </WebElement>
+
+    <!--Login form button-->
+    <WebElement name="logoutButton">
+        <xpath>//input[@class='link-logout']</xpath>
+    </WebElement>
+
+
+</Elements>

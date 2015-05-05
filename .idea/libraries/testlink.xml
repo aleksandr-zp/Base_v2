@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="testlink">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/testlink/xmlrpc-client-3.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/testlink/testlink-java-api-1.9.4-0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/testlink/testlink-java-api-1.9.4-0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/testlink/xmlrpc-common-3.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/testlink/ws-commons-util-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

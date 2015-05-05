@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Elements>
+
+    <!--Friend's form elements-->
+    <WebElement name="massageTextArea">
+        <id>profile-input</id>
+    </WebElement>
+
+    <WebElement name="askButton">
+        <id>question_submit</id>
+    </WebElement>
+
+    <WebElement name="conformationBox">
+        <id>reMotivation_box</id>
+    </WebElement>
+
+</Elements>

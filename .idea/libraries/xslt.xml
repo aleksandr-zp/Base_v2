@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="xslt">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/xslt/saxon-8.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xslt/SaxonLiaison.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

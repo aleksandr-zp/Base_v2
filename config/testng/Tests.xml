@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Ask.fm Test Cases" verbose="1">
+
+    <test name="Login Test">
+        <classes>
+            <class name="com.askfm.tests.LoginTest"/>
+        </classes>
+    </test>
+
+    <test name="Send Message Test">
+        <classes>
+            <class name="com.askfm.tests.SendQuestonTest"/>
+        </classes>
+    </test>
+
+</suite>

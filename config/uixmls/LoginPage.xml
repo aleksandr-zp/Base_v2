@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Elements>
+
+
+    <!--Login form elements-->
+    <WebElement name="loginFormButton">
+        <xpath>//a[@class='link-login']</xpath>
+    </WebElement>
+
+    <WebElement name="loginForm">
+        <id>logBox_content</id>
+    </WebElement>
+
+    <WebElement name="loginInput">
+        <id>login</id>
+    </WebElement>
+
+    <WebElement name="passwordInput">
+        <id>password</id>
+    </WebElement>
+
+    <WebElement name="loginButton">
+        <id>logBox_submit-button</id>
+    </WebElement>
+
+    <WebElement name="logoutButton">
+        <xpath>//input[@class='link-logout']</xpath>
+    </WebElement>
+
+
+</Elements>

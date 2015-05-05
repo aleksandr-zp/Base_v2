@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SSLUtils">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ant/SSLUtils/SSLUtils.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
